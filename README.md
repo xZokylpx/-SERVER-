@@ -1,0 +1,2 @@
+# -SERVER-
+Discord server
